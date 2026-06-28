@@ -1,0 +1,19 @@
+ABC Technologies Pricing Guide
+
+Basic Plan
+Price: $10/month
+Features:
+- 5 Users
+- Email Support
+
+Pro Plan
+Price: $25/month
+Features:
+- 25 Users
+- Priority Support
+
+Enterprise Plan
+Price: Contact Sales
+Features:
+- Unlimited Users
+- Dedicated Account Manager

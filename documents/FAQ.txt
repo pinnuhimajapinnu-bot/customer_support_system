@@ -1,0 +1,10 @@
+Frequently Asked Questions
+
+Q: How do I reset my password?
+A: Click the "Forgot Password" option on the login page.
+
+Q: How do I change my profile?
+A: Open Account Settings and update your profile.
+
+Q: How do I contact support?
+A: Email support@abctechnologies.com
